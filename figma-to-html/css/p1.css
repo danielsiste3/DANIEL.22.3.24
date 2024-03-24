@@ -153,18 +153,18 @@ body {
   position: absolute;
   top: 665px;
   left: 109px;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
-  border-bottom-left-radius: 8px;
-  border-bottom-right-radius: 8px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
   overflow: hidden;
 }
 .v57_23 {
   width: 160px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 671px;
-  left: 125px;
+  top: 680px;
+  left: 130px;
   font-family: Inter;
   font-weight: Bold;
   font-size: 20px;
@@ -318,18 +318,18 @@ body {
   position: absolute;
   top: 665px;
   left: 417px;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
-  border-bottom-left-radius: 8px;
-  border-bottom-right-radius: 8px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
   overflow: hidden;
 }
 .v57_63 {
   width: 160px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 672px;
-  left: 430px;
+  top: 680px;
+  left: 440px;
   font-family: Inter;
   font-weight: Bold;
   font-size: 20px;
@@ -414,18 +414,18 @@ body {
   position: absolute;
   top: 662px;
   left: 745px;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
-  border-bottom-left-radius: 8px;
-  border-bottom-right-radius: 8px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
   overflow: hidden;
 }
 .v57_70 {
   width: 160px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 668px;
-  left: 766px;
+  top: 678px;
+  left: 770px;
   font-family: Inter;
   font-weight: Bold;
   font-size: 20px;
@@ -510,18 +510,18 @@ body {
   position: absolute;
   top: 665px;
   left: 1086px;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
-  border-bottom-left-radius: 8px;
-  border-bottom-right-radius: 8px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
   overflow: hidden;
 }
 .v57_77 {
   width: 160px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 673px;
-  left: 1100px;
+  top: 680px;
+  left: 1110px;
   font-family: Inter;
   font-weight: Bold;
   font-size: 20px;

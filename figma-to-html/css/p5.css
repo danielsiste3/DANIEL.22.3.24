@@ -88,7 +88,7 @@ body {
   text-align: left;
 }
 .v73_47 {
-  width: 375px;
+  width: 350px;
   height: 374px;
   background: url("../images/v73_47.png");
   background-repeat: no-repeat;
@@ -105,7 +105,7 @@ body {
   overflow: hidden;
 }
 .v73_48 {
-  width: 344px;
+  width: 350px;
   height: 374px;
   background: url("../images/v73_48.png");
   background-repeat: no-repeat;
@@ -114,7 +114,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 351px;
-  left: 538px;
+  left: 900px;
   border-top-left-radius: 24px;
   border-top-right-radius: 24px;
   border-bottom-left-radius: 24px;
@@ -122,7 +122,7 @@ body {
   overflow: hidden;
 }
 .v73_49 {
-  width: 289px;
+  width: 350px;
   height: 374px;
   background: url("../images/v73_49.png");
   background-repeat: no-repeat;
@@ -131,7 +131,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 351px;
-  left: 422px;
+  left: 512px;
   border-top-left-radius: 24px;
   border-top-right-radius: 24px;
   border-bottom-left-radius: 24px;
@@ -140,24 +140,24 @@ body {
 }
 .v73_50 {
   width: 180px;
-  height: 53px;
+  height: 43px;
   background: rgba(41,217,206,1);
   margin: 10px;
   opacity: 1;
   position: absolute;
-  top: 270px;
+  top: 260px;
   left: 205px;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
-  border-bottom-left-radius: 8px;
-  border-bottom-right-radius: 8px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
   overflow: hidden;
 }
 .v73_51 {
   width: 140px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 14px;
+  top: 10px;
   left: 20px;
   font-family: Inter;
   font-weight: Bold;
@@ -175,6 +175,6 @@ body {
   opacity: 1;
   position: absolute;
   top: 120px;
-  left: 139px;
+  left: 800px;
   overflow: hidden;
 }

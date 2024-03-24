@@ -87,10 +87,10 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v73_34 {
-  width: 291px;
+.v73_35 {
+  width: 310px;
   height: 382px;
-  background: url("../images/v73_34.png");
+  background: url("../images/v73_35.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -104,17 +104,17 @@ body {
   border-bottom-right-radius: 24px;
   overflow: hidden;
 }
-.v73_35 {
+.v73_34 {
   width: 310px;
   height: 382px;
-  background: url("../images/v73_35.png");
+  background: url("../images/v73_34.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
   top: 344px;
-  left: 488px;
+  left: 508px;
   border-top-left-radius: 24px;
   border-top-right-radius: 24px;
   border-bottom-left-radius: 24px;
@@ -122,7 +122,7 @@ body {
   overflow: hidden;
 }
 .v73_36 {
-  width: 283px;
+  width: 310px;
   height: 382px;
   background: url("../images/v73_36.png");
   background-repeat: no-repeat;
@@ -131,7 +131,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 344px;
-  left: 519px;
+  left: 850px;
   border-top-left-radius: 24px;
   border-top-right-radius: 24px;
   border-bottom-left-radius: 24px;
